@@ -31,5 +31,4 @@ ostp://alice@home-node.example
 ### Example of a Portal
 ```
 ostp://world-b.example/plaza?spawn=north
-
 ```
