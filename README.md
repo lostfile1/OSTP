@@ -20,3 +20,16 @@ To create a protocol that cant be garden walled but still draw in corporate inte
 +-------------------+                                              +-------------------+
 
 ```
+
+# example of a User Or AI agent URI
+```
+ostp://alice@home-node.example
+
+```
+
+# example of a Portal URI
+
+```
+ostp://world-b.example/plaza?spawn=north
+
+```
