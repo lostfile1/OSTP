@@ -5,7 +5,7 @@ Open Spatial Traversal Protocol A Protocol for a metaverse that prevents a walle
 
 To create a protocol that cant be garden walled but still draw in corporate interests either wise it will die like other projects like opensim and janusweb 
 
-# over view
+# Architecture Overview
 ```
 +-------------------+         1. Portal Handshake (HTTPS)        +-------------------+
 |   Home Node /     | -----------------------------------------> |   Target Host     |
