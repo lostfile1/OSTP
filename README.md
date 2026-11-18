@@ -23,12 +23,12 @@ To create a protocol that cant be garden walled but still draw in corporate inte
 
 # Some Examples of URI addresses
 
-## Example of a User Or AI agent
+### Example of a User Or AI agent
 ```
 ostp://alice@home-node.example
 ```
 
-## Example of a Portal
+### Example of a Portal
 ```
 ostp://world-b.example/plaza?spawn=north
 
