@@ -1,4 +1,4 @@
-# OSTP-protocol
+# The OSTP protocol
 Open Spatial Traversal Protocol A Protocol for a metaverse that prevents a walled garden situation, but still respects consumer and corporate interests 
 
 # The Point of this project
