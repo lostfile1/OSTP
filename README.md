@@ -1,9 +1,9 @@
-# The OSTP protocol
-Open Spatial Traversal Protocol A Protocol for a metaverse that prevents a walled garden situation, but still respects consumer and corporate interests 
+# The Open Spacial Traversal Protocol (OSTP)
+Open Spatial Traversal Protocol is an open protocol for a metaverse that respects consumer and corporate interests. The OSTP prevents users of a metaverse/metaverses from being locked into a specific hardware path. The Metaverse was iOS, Holodeck is Android.
 
 # The Point of this project
 
-To create a protocol that cant be garden walled but still draw in corporate interests either wise it will die like other projects like opensim and janusweb 
+Create a protocol that cannot be locked down while still drawing in corporate interests, otherwise it will die like other projects like opensim and janusweb 
 
 # Architecture Overview
 ```
@@ -21,7 +21,7 @@ To create a protocol that cant be garden walled but still draw in corporate inte
 
 ```
 
-# Some Examples of URI addresses
+# Some Examples of Universal Routing Interface (URI) Addresses
 
 ### Example of a User Or AI agent
 ```
