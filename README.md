@@ -32,3 +32,5 @@ ostp://alice@home-node.example
 ```
 ostp://world-b.example/plaza?spawn=north
 ```
+
+We are currently looking for collaborators for this project 
