@@ -1,0 +1,21 @@
+
+"manifest_version": "0.1",
+  "asset_id": "urn:ostp:item:88421",
+  "issuer": "ostp://studio-xyz.com",
+  "owner": "ostp://alice@home.example",
+  "type": "avatar",
+  "tags": ["humanoid", "rigged"],
+  "representations": [
+    {
+      "lod": 0,
+      "format": "gltf-2.0",
+      "uri": "https://cdn.studio-xyz.com/assets/jacket.glb",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ],
+  "license": {
+    "transferable": false,
+    "commercial_render": true,
+    "signature": "sig_ed25519_..."
+  }
+}
